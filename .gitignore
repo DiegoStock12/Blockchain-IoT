@@ -1,0 +1,9 @@
+venv/
+.vscode
+server/__pychache__/
+clients/__pycache__/
+prueba.py
+user.sol
+*/*.pickle
+*.pyc
+__pycache__

@@ -499,6 +499,6 @@ def _createConnectionPool():
         pool_reset_session=True,
         database='tfg',
         host='localhost',
-        user='diego',
-        password='chinforris'
+        user=user,
+        password=pwd
     )

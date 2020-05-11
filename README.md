@@ -2,7 +2,7 @@
 
 This project makes use of the Ethereum platform and smart contracts to provide IoT devices with a way of easily allocating resources in Edge blockchain servers as well as prevents malicious behavior by implementing a credit system based on a Virtual Token.
 
-This code is part of the experiments made during my [Bachelor Thesis]([http://castor.det.uvigo.es:8080/xmlui/bitstream/handle/123456789/338/TFG%20Diego%20Albo%20Mart%C3%ADnez.pdf?sequence=1&isAllowed=y](http://castor.det.uvigo.es:8080/xmlui/bitstream/handle/123456789/338/TFG Diego Albo Martínez.pdf?sequence=1&isAllowed=y)) inspired by previous work of Pan et al. [1]
+This code is part of the experiments made during my [Bachelor Thesis](http://castor.det.uvigo.es:8080/xmlui/bitstream/handle/123456789/338/TFG%20Diego%20Albo%20Mart%C3%ADnez.pdf?sequence=1&isAllowed=y) inspired by previous work of Pan et al. [1]
 
 ### Main components
 

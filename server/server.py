@@ -45,7 +45,7 @@ def _getConnection():
     return mysql.connector.connect(
         host='localhost',
         user='diego',
-        passwd='chinforris',
+        passwd='passwd',
         database='tfg'
     )
 
